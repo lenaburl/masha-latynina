@@ -1,0 +1,70 @@
+{
+  "main": {
+    "text": [
+      "Digital <i>designer</i> based in St.&nbsp;Petersburg, Russia <br> with experience <i>across</i> products, web and graphic.",
+      "I&nbsp;love <i>design</i> and the design <i>process.</i> <br> It&nbsp;feeds my&nbsp;soul. I&nbsp;passionate about creating <i>sustainable</i> ideas <br> and products that <i>function</i> beautifully."
+    ],
+    "works": [
+      {
+        "title": "Admin panel",
+        "link": "admin",
+        "subtitle": "for projects of&nbsp;Alexander Lebedev studio",
+        "year": "2020",
+        "role": "product design",
+        "curtainColor": "#273850",
+        "image": {
+          "desktop": "/images/admin/image-0@2x.png",
+          "mobile": "/images/admin/image-0.png"
+        }
+      },
+      {
+        "title": "Fastprint",
+        "link": "fastprint",
+        "subtitle": "automated online typography",
+        "year": "2019",
+        "role": "product design",
+        "curtainColor": "#465468",
+        "image": {
+          "desktop": "/images/fastprint/image-0@2x.png",
+          "mobile": "/images/fastprint/image-0.png"
+        }
+      },
+      {
+        "title": "Fastprint business",
+        "link": "fastprint-business",
+        "subtitle": "automated online typography",
+        "year": "2018",
+        "role": "product design",
+        "curtainColor": "#3B4F6B",
+        "image": {
+          "desktop": "/images/fastprint-business/image-0@2x.png",
+          "mobile": "/images/fastprint-business/image-0.png"
+        }
+      },
+      {
+        "title": "Informburo",
+        "link": "informburo",
+        "subtitle": "lifestyle portal for migrants in Europe",
+        "year": "2020",
+        "role": "web design",
+        "curtainColor": "#465468",
+        "image": {
+          "desktop": "/images/informburo/image-0@2x.png",
+          "mobile": "/images/informburo/image-0.png"
+        }
+      },
+      {
+        "title": "STK Modul",
+        "link": "stk",
+        "subtitle": "reinforced concrete products factory",
+        "year": "2019",
+        "role": "web design",
+        "curtainColor": "#3B4F6B",
+        "image": {
+          "desktop": "/images/stk/image-1@2x.png",
+          "mobile": "/images/stk/image-1.png"
+        }
+      }
+    ]
+  }
+}

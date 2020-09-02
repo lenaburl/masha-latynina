@@ -1,0 +1,109 @@
+{
+  "case": {
+    "header": {
+      "title": "Informburo",
+      "subtitle": "lifestyle portal for migrants in Europe",
+      "year": "2020",
+      "role": "web design"
+    },
+    "prev": {
+      "link": "fastprint-business"
+    },
+    "next": {
+      "title": "STK Modul",
+      "link": "stk",
+      "subtitle": "reinforced concrete products factory",
+      "year": "2019",
+      "role": "web design"
+    },
+    "blocks": [
+      {
+        "type": "video",
+        "bg": "#BCC2CB",
+        "preview": "/video/informburo/video-1.png",
+        "content": "/video/informburo/video-1.mp4"
+      },
+      {
+        "type": "description",
+        "content": {
+          "title": "Informburo is&nbsp;a&nbsp;<i>platform</i> where everyone can learn how to&nbsp;regarding issues of&nbsp;legalization, obtaining a&nbsp;residence permit, rent an&nbsp;apartment, exchange your driver&rsquo;s license, even how to&nbsp;take out the trash in&nbsp;European countries.",
+          "role": "web design, information architecture"
+        }
+      },
+      {
+        "type": "image",
+        "bg": "#BCC2CB",
+        "content": {
+          "desktop": "/images/informburo/image-1@2x.png",
+          "mobile": "/images/informburo/image-1.png"
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "The main idea is&nbsp;to&nbsp;create an&nbsp;information platform where emigrants from countries of&nbsp;the former USSR or&nbsp;other states, who change their place of&nbsp;residence, can gather <i>all kinds</i> of&nbsp;information.",
+          "In&nbsp;the site menu, information is&nbsp;divided by&nbsp;country, as&nbsp;well as&nbsp;<i>information formats.</i> Detailed articles, step-by-step lists and interviews are the main formats for presenting information."
+        ]
+      },
+      {
+        "type": "image",
+        "bg": "#BCC2CB",
+        "content": {
+          "desktop": "/images/informburo/image-2@2x.png",
+          "mobile": "/images/informburo/image-2.png"
+        }
+      },
+      {
+        "type": "gallery",
+        "bg": "#172942",
+        "content": {
+          "left": [
+            {
+              "desktop": "/images/informburo/gallery-1@2x.png",
+              "mobile": "/images/informburo/gallery-1.png"
+            }
+          ],
+          "right": [
+            {
+              "desktop": "/images/informburo/gallery-2@2x.png",
+              "mobile": "/images/informburo/gallery-2.png"
+            }
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "The design focuses on&nbsp;the color of&nbsp;the hover&nbsp;&mdash; a&nbsp;<i>bright yellow marker</i> as&nbsp;the embodiment of&nbsp;highlighting what is&nbsp;needed in&nbsp;the list of&nbsp;important things, in&nbsp;this case, moving abroad.",
+          "The portal is&nbsp;still in&nbsp;the <i>process of&nbsp;launching,</i> and by&nbsp;its results it&nbsp;will become clear whether it&nbsp;will grow further or&nbsp;be&nbsp;limited to&nbsp;articles and interviews."
+        ]
+      },
+      {
+        "type": "mobile-videos",
+        "bg": "#BCC2CB",
+        "content": [
+          {
+            "src": "/video/informburo/mobile-video-1.mov",
+            "preview": "/video/informburo/mobile-video-1.png"
+          },
+          {
+            "src": "/video/informburo/mobile-video-2.mov",
+            "preview": "/video/informburo/mobile-video-2.png"
+          },
+          {
+            "src": "/video/informburo/mobile-video-3.mov",
+            "preview": "/video/informburo/mobile-video-3.png"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "bg": "#BCC2CB",
+        "content": {
+          "desktop": "/images/informburo/image-3.svg",
+          "mobile": "/images/informburo/image-3.svg"
+        }
+      }
+    ]
+  }
+}

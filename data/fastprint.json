@@ -1,0 +1,101 @@
+{
+  "case": {
+    "header": {
+      "title": "Fastprint",
+      "subtitle": "automated online typography",
+      "year": "2019",
+      "role": "product design"
+    },
+    "prev": {
+      "link": "admin"
+    },
+    "next": {
+      "title": "Fastprint business",
+      "link": "fastprint-business",
+      "subtitle": "automated online typography for business",
+      "year": "2018",
+      "role": "product design"
+    },
+    "blocks": [
+      {
+        "type": "video",
+        "bg": "video",
+        "preview": "/video/fastprint/video-1.png",
+        "content": "/video/fastprint/video-1.mov"
+      },
+      {
+        "type": "description",
+        "content": {
+          "title": "Fully automated online typography that helps customers <i>print,</i><br> <i>create</i> designs and <i>order</i> printing production without intermediaries.",
+          "role": "strategy, interface design, information architecture"
+        }
+      },
+      {
+        "type": "image",
+        "bg": "#172942",
+        "content": {
+          "desktop": "/images/fastprint/scheme.svg",
+          "mobile": "/images/fastprint/scheme.svg"
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "Very ambitious goal of&nbsp;the project, to <i>fully automate</i> all the processes of&nbsp;ordering printed products. Classically, each stage in&nbsp;the printing house is&nbsp;accompanied by&nbsp;consultations of&nbsp;managers or&nbsp;print workers.",
+          "The task was not an&nbsp;easy one&nbsp;&mdash; to&nbsp;facilitate the <i>independent passage</i> of&nbsp;the user through all stages using the interface and thoughtful logic."
+        ]
+      },
+      {
+        "type": "image",
+        "bg": "transparent",
+        "content": {
+          "desktop": "/images/fastprint/image-1@2x.png",
+          "mobile": "/images/fastprint/image-1.png"
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "The most important thing in&nbsp;a&nbsp;product is <i>technology.</i> Thanks to&nbsp;Fastprint&rsquo;s nearly 20&nbsp;years of&nbsp;printing experience, complex processes such as&nbsp;setting up&nbsp;and calibrating printing machines have been successfully developed jointly by&nbsp;print specialists and developers.",
+          "No&nbsp;less interesting was the process of&nbsp;working on <i>interaction.</i> How to&nbsp;show the features of&nbsp;the paper and its color, processing options like raised areas or&nbsp;foiling. It&nbsp;was important for&nbsp;us that the user navigate the variety of&nbsp;printing options without any problems."
+        ]
+      },
+      {
+        "type": "image",
+        "bg": "#BCC2CB",
+        "content": {
+          "desktop": "/images/fastprint/image-2@2x.png",
+          "mobile": "/images/fastprint/image-2.png"
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "After loading, the design layout passes the <i>test,</i> which determines whether it&nbsp;is&nbsp;suitable for printing. If&nbsp;there are errors and they are insignificant, the service offers to&nbsp;automatically fix them without reloading.",
+          "<i>Delivery and payment</i> options depend on&nbsp;the time of&nbsp;order, the number of&nbsp;copies and the complexity of&nbsp;printing. The nearest pick-up point is&nbsp;determined using geolocation."
+        ]
+      },
+      {
+        "type": "image",
+        "bg": "#172942",
+        "content": {
+          "desktop": "/images/fastprint/image-3@2x.png",
+          "mobile": "/images/fastprint/image-3.png"
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "The <i>account</i> has an&nbsp;overview of&nbsp;all information about current orders, order history, settings and feedback, as&nbsp;well as&nbsp;possible discounts and promotions.",
+          "There are many functions that <i>help</i> users change the order of&nbsp;printed materials with one click, choose templates for design and navigate all their orders."
+        ]
+      },
+      {
+        "type": "video",
+        "bg": "#BCC2CB",
+        "preview": "/video/fastprint/video-2.png",
+        "content": "/video/fastprint/video-2.mov"
+      }
+    ]
+  }
+}

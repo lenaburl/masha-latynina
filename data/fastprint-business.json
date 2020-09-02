@@ -1,0 +1,177 @@
+{
+  "case": {
+    "header": {
+      "title": "Fastprint business",
+      "subtitle": "automated online typography",
+      "year": "2018",
+      "role": "product design"
+    },
+    "prev": {
+      "link": "fastprint"
+    },
+    "next": {
+      "title": "Informburo",
+      "link": "informburo",
+      "subtitle": "lifestyle portal for migrants in Europe",
+      "year": "2020",
+      "role": "web design"
+    },
+    "blocks": [
+      {
+        "type": "video",
+        "bg": "#BCC2CB",
+        "preview": "/video/fastprint-business/video-1.png",
+        "content": "/video/fastprint-business/video-1.mp4"
+      },
+      {
+        "type": "description",
+        "content": {
+          "title": "Business edition of&nbsp;Fastprint service has many <i>tools,</i> collaborative sections <br> and integrations with additional tools.",
+          "role": "strategy, interface design, information architecture"
+        }
+      },
+      {
+        "type": "gallery",
+        "bg": "#BCC2CB",
+        "content": {
+          "left": [
+            {
+              "desktop": "/images/fastprint-business/gallery-1-1@2x.png",
+              "mobile": "/images/fastprint-business/gallery-1-1.png"
+            }
+          ],
+          "right": [
+            {
+              "desktop": "/images/fastprint-business/gallery-1-2@2x.png",
+              "mobile": "/images/fastprint-business/gallery-1-2.png"
+            }
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "FP&nbsp;business is&nbsp;an <i>extended version</i> of&nbsp;the automated online printing service and has many tools, sections for collaboration and integration with additional tools. Personal printing house for each company.",
+          "Some solutions have been developed specifically for the <i>corporate version</i> of&nbsp;the site. The hierarchy of&nbsp;companies and their management, visual delivery by&nbsp;region, distributed delivery and much more."
+        ]
+      },
+      {
+        "type": "gallery",
+        "bg": "#BCC2CB",
+        "content": {
+          "left": [
+            {
+              "desktop": "/images/fastprint-business/gallery-2-1@2x.png",
+              "mobile": "/images/fastprint-business/gallery-2-1.png"
+            }
+          ],
+          "right": [
+            {
+              "desktop": "/images/fastprint-business/gallery-2-2@2x.png",
+              "mobile": "/images/fastprint-business/gallery-2-2.png"
+            }
+          ]
+        }
+      },
+      {
+        "type": "gallery",
+        "bg": "#172942",
+        "content": {
+          "left": [
+            {
+              "desktop": "/images/fastprint-business/gallery-3-1@2x.png",
+              "mobile": "/images/fastprint-business/gallery-3-1.png"
+            },
+            {
+              "desktop": "/images/fastprint-business/gallery-3-2@2x.png",
+              "mobile": "/images/fastprint-business/gallery-3-2.png"
+            }
+          ],
+          "right": [
+            {
+              "desktop": "/images/fastprint-business/gallery-3-3@2x.png",
+              "mobile": "/images/fastprint-business/gallery-3-3.png"
+            },
+            {
+              "desktop": "/images/fastprint-business/gallery-3-4@2x.png",
+              "mobile": "/images/fastprint-business/gallery-3-4.png"
+            }
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "When placing an&nbsp;order, you do&nbsp;not need to&nbsp;enter data every time, because each company has a <i>personal account</i> with which you can configure all the actions of&nbsp;company employees.",
+          "Employees can collect circulations, attach ready-made and proven designs, pay and place delivery orders on <i>their own.</i> For example, a&nbsp;marketing manager in&nbsp;Moscow can order print leaflets with delivery to&nbsp;Vladivostok."
+        ]
+      },
+      {
+        "type": "video",
+        "bg": "#BCC2CB",
+        "size": "small",
+        "preview": "/video/fastprint-business/video-2.png",
+        "content": "/video/fastprint-business/video-2.mov"
+      },
+      {
+        "type": "gallery",
+        "bg": "#172942",
+        "content": {
+          "left": [
+            {
+              "desktop": "/images/fastprint-business/gallery-4-1@2x.png",
+              "mobile": "/images/fastprint-business/gallery-4-1.png"
+            },
+            {
+              "desktop": "/images/fastprint-business/gallery-4-2@2x.png",
+              "mobile": "/images/fastprint-business/gallery-4-2.png"
+            }
+          ],
+          "right": [
+            {
+              "desktop": "/images/fastprint-business/gallery-4-3@2x.png",
+              "mobile": "/images/fastprint-business/gallery-4-3.png"
+            },
+            {
+              "desktop": "/images/fastprint-business/gallery-4-4@2x.png",
+              "mobile": "/images/fastprint-business/gallery-4-4.png"
+            }
+          ]
+        }
+      },
+      {
+        "type": "image",
+        "bg": "#BCC2CB",
+        "content": {
+          "desktop": "/images/fastprint-business/image-1@2x.png",
+          "mobile": "/images/fastprint-business/image-1.png"
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "Moderator can <i>manage</i> employees. For example, to&nbsp;control the budget, monitor statistics and even limit the choice of&nbsp;products and access to&nbsp;designs for a&nbsp;particular employee, so&nbsp;that there are less printing errors. Strict reporting, the ability to&nbsp;directly correct the designs from the service (for example, addresses or&nbsp;phone numbers), the possibility of&nbsp;distributed delivery.",
+          "For many enterprise companies in&nbsp;need of&nbsp;printed materials across the country, FP&nbsp;business could be&nbsp;a&nbsp;very useful tool, given the great competencies of&nbsp;Fastprint. <i>Unfortunately,</i> the project was closed, although it&nbsp;showed encouraging results at&nbsp;presentations. And yet it&nbsp;was great to&nbsp;be&nbsp;part of&nbsp;a&nbsp;team that tried to&nbsp;do&nbsp;something completely new."
+        ]
+      },
+      {
+        "type": "gallery",
+        "bg": "#BCC2CB",
+        "content": {
+          "left": [
+            {
+              "desktop": "/images/fastprint-business/gallery-5-1@2x.png",
+              "mobile": "/images/fastprint-business/gallery-5-1.png"
+            }
+          ],
+          "right": [
+            {
+              "desktop": "/images/fastprint-business/gallery-5-2@2x.png",
+              "mobile": "/images/fastprint-business/gallery-5-2.png"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

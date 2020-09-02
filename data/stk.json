@@ -1,0 +1,148 @@
+{
+  "case": {
+    "header": {
+      "title": "STK Modul",
+      "subtitle": "reinforced concrete products factory",
+      "year": "2019",
+      "role": "web design",
+      "urlTitle": "stroyprombeton.ru",
+      "url": "https://stroyprombeton.ru/"
+    },
+    "prev": {
+      "link": "informburo"
+    },
+    "next": {
+      "title": "My process",
+      "link": "process",
+      "subtitle": "create and practice",
+      "year": "till now",
+      "role": "‘web, graphic, layout"
+    },
+    "blocks": [
+      {
+        "type": "video",
+        "loop": false,
+        "preview": "/video/stk/video-0.png",
+        "bg": "video",
+        "content": "/video/stk/video-0.mp4"
+      },
+      {
+        "type": "description",
+        "content": {
+          "title": "STK Modul is&nbsp;a&nbsp;<i>reinforced concrete products factory</i> that produces building composite materials of&nbsp;various types, series and sizes. They are produced both according to&nbsp;their own specifications and according to&nbsp;customer drawings.",
+          "role": "web design, information architecture"
+        }
+      },
+      {
+        "type": "video",
+        "bg": "#BCC2CB",
+        "preview": "/video/stk/video-1.png",
+        "content": "/video/stk/video-1.mp4"
+      },
+      {
+        "type": "text",
+        "content": [
+          "The site acts primarily as&nbsp;a <i>tool</i> for searching for reinforced concrete products in&nbsp;an&nbsp;extensive catalog and ordering them. And yet, the task was not only to&nbsp;make a&nbsp;convenient and affordable catalog, but also to <i>talk</i> about a&nbsp;company that is&nbsp;an&nbsp;excellent professional in&nbsp;its field.",
+          "The main focus of&nbsp;the design was <i>atmospheric</i> muffled background and a <i>red line,</i> the color of&nbsp;which came from the company logo. The line draws attention to&nbsp;headings and leads, separating them from the rest of&nbsp;the page. As&nbsp;befits the red line, it&nbsp;passes <i>through</i> the entire site, uniting all the pages."
+        ]
+      },
+      {
+        "type": "image",
+        "bg": "#172942",
+        "content": {
+          "desktop": "/images/stk/image-2@2x.png",
+          "mobile": "/images/stk/image-2.png"
+        }
+      },
+      {
+        "type": "video",
+        "bg": "#BCC2CB",
+        "preview": "/video/stk/video-2.png",
+        "content": "/video/stk/video-2.mp4"
+      },
+      {
+        "type": "text",
+        "content": [
+          "To&nbsp;improve usability, texts and animations were used as&nbsp;the main navigation tool. There is&nbsp;practically <i>no&nbsp;classic look</i> of&nbsp;buttons or&nbsp;links in&nbsp;the design&nbsp;&mdash; all this is&nbsp;replaced by&nbsp;microanimations.",
+          "An&nbsp;extensive catalog hierarchy is&nbsp;presented in&nbsp;the form of&nbsp;a <i>convenient table.</i> It&nbsp;is&nbsp;not at&nbsp;all difficult to&nbsp;find an&nbsp;interesting product."
+        ]
+      },
+      {
+        "type": "image",
+        "bg": "#172942",
+        "content": {
+          "desktop": "/images/stk/image-3@2x.png",
+          "mobile": "/images/stk/image-3.png"
+        }
+      },
+      {
+        "type": "slider",
+        "content": [
+          {
+            "desktop": "/images/stk/slider-1-1.png",
+            "mobile": "/images/stk/slider-1-1.png"
+          },
+          {
+            "desktop": "/images/stk/slider-1-2.png",
+            "mobile": "/images/stk/slider-1-2.png"
+          },
+          {
+            "desktop": "/images/stk/slider-1-3.png",
+            "mobile": "/images/stk/slider-1-3.png"
+          },
+          {
+            "desktop": "/images/stk/slider-1-4.png",
+            "mobile": "/images/stk/slider-1-4.png"
+          },
+          {
+            "desktop": "/images/stk/slider-1-5.png",
+            "mobile": "/images/stk/slider-1-5.png"
+          },
+          {
+            "desktop": "/images/stk/slider-1-6.png",
+            "mobile": "/images/stk/slider-1-6.png"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Product map type is&nbsp;a&nbsp;link to&nbsp;the drawing tables by&nbsp;type and content, so&nbsp;that everyone who works with <i>architectural drawings</i> every day sees something familiar and can easily navigate various products, and also easily order them according to&nbsp;the necessary parameters.",
+          "Throughout the site, we&nbsp;have added switching color schemes <i>from dark to&nbsp;light.</i> This decision was dictated by&nbsp;practical considerations&nbsp;&mdash; the choice of&nbsp;a&nbsp;more comfortable mode for studying the technical characteristics of&nbsp;the product."
+        ]
+      },
+      {
+        "type": "slider",
+        "bg": "#BCC2CB",
+        "content": [
+          {
+            "desktop": "/images/stk/slider-2-1.png",
+            "mobile": "/images/stk/slider-2-1.png"
+          },
+          {
+            "desktop": "/images/stk/slider-2-2.png",
+            "mobile": "/images/stk/slider-2-2.png"
+          }
+        ]
+      },
+      {
+        "type": "mobile-videos",
+        "bg": "#172942",
+        "content": [
+          {
+            "src": "/video/stk/mobile-video-1.mp4",
+            "preview": "/video/stk/mobile-video-1.png"
+          },
+          {
+            "src": "/video/stk/mobile-video-2.mp4",
+            "preview": "/video/stk/mobile-video-2.png"
+          },
+          {
+            "src": "/video/stk/mobile-video-3.mp4",
+            "preview": "/video/stk/mobile-video-3.png"
+          }
+        ]
+      }
+    ]
+  }
+}

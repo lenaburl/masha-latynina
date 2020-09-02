@@ -1,0 +1,125 @@
+{
+  "case": {
+    "header": {
+      "title": "Admin panel",
+      "subtitle": "for projects of&nbsp;Alexander Lebedev studio",
+      "year": "2020",
+      "role": "product design"
+    },
+    "next": {
+      "title": "Fastprint",
+      "link": "fastprint",
+      "subtitle": "automated online typography",
+      "year": "2019",
+      "role": "product design"
+    },
+    "blocks": [
+      {
+        "type": "video",
+        "bg": "#BCC2CB",
+        "preview": "/video/admin/video-1.png",
+        "content": "/video/admin/video-1.mp4"
+      },
+      {
+        "type": "description",
+        "content": {
+          "title": "Admin panel is&nbsp;the <i>base</i> of&nbsp;every project, the instrument for all client&rsquo;s <i>needs.</i> <br> Very ambitious, interesting and complex enough work.",
+          "role": "strategy, interface design, information architecture"
+        }
+      },
+      {
+        "type": "image",
+        "bg": "#172942",
+        "content": {
+          "desktop": "/images/admin/scheme.svg",
+          "mobile": "/images/admin/scheme.svg"
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "Our main <i>goal</i> was to&nbsp;simplify interaction with the admin panel, increase the speed of&nbsp;work on&nbsp;projects, and, of&nbsp;course, attract new customers with a&nbsp;convenient site administration system.",
+          "The main <i>strategy</i> is&nbsp;to&nbsp;redesign the admin panel and add new features. We&nbsp;started with the development of&nbsp;already implemented functions, worked through the user experience based on&nbsp;feedback and A&nbsp;/ B&nbsp;testing."
+        ]
+      },
+      {
+        "type": "video",
+        "bg": "#BCC2CB",
+        "preview": "/video/admin/video-2.png",
+        "content": "/video/admin/video-2.mp4"
+      },
+      {
+        "type": "image",
+        "bg": "#F4F4F4",
+        "content": {
+          "desktop": "/images/admin/image-1@2x.png",
+          "mobile": "/images/admin/image-1.png"
+        }
+      },
+      {
+        "type": "image",
+        "bg": "#F4F4F4",
+        "content": {
+          "desktop": "/images/admin/image-2@2x.png",
+          "mobile": "/images/admin/image-2.png"
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "Many of&nbsp;our customers come to&nbsp;us with the goal of&nbsp;developing an&nbsp;<i>online store</i> with their products, and this section is&nbsp;very important in&nbsp;the admin panel. It&nbsp;was important to&nbsp;ensure a&nbsp;clear hierarchy of&nbsp;products and their editing, as&nbsp;well as&nbsp;convenient and clear sorting.",
+          "We&nbsp;have created a&nbsp;<i>library of&nbsp;components.</i> So, among users there is&nbsp;a&nbsp;factory for the production of&nbsp;concrete products with complex drawings and calculations of&nbsp;products, and a&nbsp;manufacturer of&nbsp;hygiene products with a&nbsp;small set of&nbsp;characteristics."
+        ]
+      },
+      {
+        "type": "gallery",
+        "bg": "#172942",
+        "content": {
+          "main-image": {
+            "desktop": "/images/admin/gallery-1@2x.png",
+            "mobile": "/images/admin/gallery-1.png"
+          },
+          "left": [
+            {
+              "desktop": "/images/admin/gallery-2@2x.png",
+              "mobile": "/images/admin/gallery-2.png"
+            },
+            {
+              "desktop": "/images/admin/gallery-3@2x.png",
+              "mobile": "/images/admin/gallery-3.png"
+            }
+          ],
+          "right": [
+            {
+              "desktop": "/images/admin/gallery-4@2x.png",
+              "mobile": "/images/admin/gallery-4.png"
+            },
+            {
+              "desktop": "/images/admin/gallery-5@2x.png",
+              "mobile": "/images/admin/gallery-5.png"
+            },
+            {
+              "desktop": "/images/admin/gallery-6@2x.png",
+              "mobile": "/images/admin/gallery-6.png"
+            }
+          ]
+        }
+      },
+      {
+        "type": "text",
+        "content": [
+          "A&nbsp;set of&nbsp;components and a&nbsp;text editor have also been created for editing content pages. <i>Content</i> is&nbsp;disassembled into small parts that were originally conceived in&nbsp;the design of&nbsp;the project&nbsp;&mdash; text, images, galleries, tables, lists and quotes.",
+          "Content is&nbsp;very easy to&nbsp;manage using <i>drag-and-drop</i> technology, without violating the overall specified style of&nbsp;the project. One of&nbsp;the innovations of&nbsp;this version of&nbsp;the admin panel is&nbsp;the ability to&nbsp;view <i>preview</i> pages."
+        ]
+      },
+      {
+        "type": "image",
+        "bg": "#BCC2CB",
+        "content": {
+          "desktop": "/images/admin/image-3@2x.png",
+          "mobile": "/images/admin/image-3.png"
+        }
+      }
+    ]
+  }
+}

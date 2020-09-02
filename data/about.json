@@ -1,0 +1,38 @@
+{
+  "about": {
+    "text": [
+      "I&nbsp;am Masha and&nbsp;I specialize in&nbsp;<i>product</i> and <i>interface</i> design, with particular attention to&nbsp;<i>typography</i> and custom <i>visual</i> solutions. I&nbsp;love to&nbsp;create things that <i>challenge</i>&nbsp;me. I&nbsp;like to&nbsp;try different styles and techniques, take <i>risks</i> to&nbsp;create something bright, new and useful.",
+      "Never stop <i>learning</i> is&nbsp;my&nbsp;credo."
+    ],
+    "image_1": {
+      "desktop": "/images/about_1@2x.png",
+      "mobile": "/images/about_1.png"
+    },
+    "image_2": {
+      "desktop": "/images/about_2@2x.png",
+      "mobile": "/images/about_2.png"
+    },
+    "experience": [
+      {
+        "companyName": "Alexander Lebedev studio",
+        "post": "web / product designer",
+        "time": "now"
+      },
+      {
+        "companyName": "KIT group",
+        "post": "product designer",
+        "time": "2017–2019"
+      },
+      {
+        "companyName": "Brickteam",
+        "post": "web designer",
+        "time": "2016–2017"
+      },
+      {
+        "companyName": "Work as a graphic and layout designer",
+        "post": "",
+        "time": "2011–2016"
+      }
+    ]
+  }
+}
